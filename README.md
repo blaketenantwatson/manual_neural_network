@@ -26,3 +26,6 @@ This file contains assisting functions for NeuralNet.py, including dataset handl
 
 ## Executing Program
 While the NeuralNet.py can be imported and utilized directly, running the test.py file will run a large suite of tests utilizing the given neural network.
+
+## Credits
+This project was completed as part of CS3600 at the Georgia Institute of Technology, and a significant portion of the code was provided by the teaching staff. All proper credit is given to the GaTech teaching staff and TAs for their portions of the presented code.
